@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "unrestricted-circuit-lower-bound",
+  "repository": "https://github.com/jpgordon00/ci-unrestricted-circuit-lower-bound",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/unrestricted-circuit-lower-bound/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/unrestricted-circuit-lower-bound",
+  "catalog_commit": "71c3eaf85a898f102d915836adf9ad449134e110"
+}
